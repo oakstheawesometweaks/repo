@@ -13,7 +13,9 @@ For far too long has the Messages app on modern jailbreaks been boring! With Wha
 - Change App-Wide Tint Color
 - Modern NavBar: A navigation bar that blurs content closer to the top of the screen. (Inspired by Messages on iOS 26. Togglable)
 - Stock NavBar Tinting
-- Cell Tinting
+- Cell Tinting (with optional overrides)
+- Dark/Light Mode Customization
+- Preset Importing/Exporting
 
 ### Conversation List View
 - Custom Background Color (Pinned and Cells separately)
@@ -44,12 +46,15 @@ For far too long has the Messages app on modern jailbreaks been boring! With Wha
 
 ## Compatability
 WhatAMess is compatible with devices running a _rootless_ jailbreak on iOS 16. ***Rootful support coming soon!***
-The tweak was also tested on (and has a few specific hooks for) iOS 17, NathanLR, on a 2018 11" iPad Pro. That was the only other "jailbroken" device I had for testing. Technically speaking it should be mostly fine on iOS 17/NathanLR.
+The tweak was also tested on (and has a few specific hooks for) iOS 17, NathanLR 2.0, on a 2018 11" iPad Pro. That was the only other "jailbroken" device I had for testing. Technically speaking it should be mostly fine on iOS 17/NathanLR 2.0.
 
-Compatability with the following is unknown/uncertain as I don't have the devices to test it but, considering the tweak injects into Messages only, it should be fine. If the tweak works, confirmed, on any of these, _please let me know_:
-- Seratonin
-- Roothide / Bootstrap
-- Palera1n
+NathanLR 1.0 (non-iOS 17 version) is very questionable. Other semi-jailbreaks and injection methods like Serotonin likely don't work (see below).
+
+Compatability with the following is unknown/uncertain as I don't have the devices to test it but, considering the tweak injects into Messages only, it may be fine. If the tweak works, confirmed, on any of these, _please let me know_:
+- Seratonin (According to u/digitalganster, likely doesn't work currently)
+- Roothide / Bootstrap (Have suspicions it likely works, but unconfirmed)
+- Palera1n (Confirmed working by "galaxy note 7", iPhone X iOS 16.7.7)
+- Palehide (Confirmed working by "galaxy note 7", iPhone 8+ iOS 16.7.12)
 
 ## Known Issues
 The following are issues I hope to address in future versions in the coming months.
@@ -78,6 +83,8 @@ I got interested in jailbreaking back on iOS 11 with my 6th Gen iPod Touch. I've
 
 ## Questions? Bugs? Feature Requests?
 Feel free to reach out to me and check me out at any of the following and I'll try my best to respond! _(I'm not the MOST active on these platforms so bear with me.)_
+
+Here on GitHub! Open an Issue!
 
 Discord: OaksTheAwesome
 
